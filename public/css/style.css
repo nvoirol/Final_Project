@@ -1,0 +1,165 @@
+html,body { height:100%; }
+
+.side-nav {
+	padding-top: 0px;
+	width: 250px;
+	top: 0px;
+	height: calc(100% + 60px);
+}
+.collapsible {
+	top: 0px
+	padding-top: 0px;
+	height: calc(100% + 60px);
+	margin-top: -25px;
+	width: 250px;
+	padding-bottom: 100%;
+	background-color: #eceff1;
+}
+.titleRow {
+	padding-top: 0px;
+	margin-top: 0px;
+	background-color: red;
+	top: 0px;
+}
+.top {
+	margin-top: 0px;
+	top: 0px;
+	background-color: red;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.homePic {
+	width: auto;
+	height: 100px;
+	padding-left: 260px;
+	margin-top: -450px;
+}
+
+.turkishPic {
+padding-left: 340px;
+margin-top: -468px;
+}
+
+h1 {
+	font-size: 46px;
+	padding-top: 8px;
+	margin-top: 0px;
+	margin-left: 40px;
+	font-family: 'Josefin Slab', serif
+
+}
+
+video {
+	padding-left: 210px;
+	padding-top: 0px;
+	margin-top: -440px;
+}
+
+.ethiopianVid{
+	padding-left: 180px;
+	padding-top: 0px;
+	margin-top: -440px;
+}
+.topText {
+	float: right;
+	font-size: 24px;
+	padding-top: 28px;
+	padding-right: 30px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+	font-family: 'Josefin Slab', serif
+}
+.nav_Text {
+	float: right;
+	font-size: 20px;
+	padding-right: 15px;
+	font-family: 'Josefin Slab', serif;
+	background-color:  lightblue;
+	
+}
+.nav-wrapper {
+	background-color:
+	top: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+.top-lower{
+	margin-top: 0px;
+	top: 0px;
+	padding-top: 0px;
+
+}
+
+.col_s7_push-s5 {
+	top: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+
+}
+
+.top-row {
+	top: 0px;
+	padding-top: 0px;
+	margin-top: 0px;	
+}
+
+.top-nav {
+	position: relative;
+	top: -19px;
+	padding-top: 0px;
+}
+.headerText	{
+	font-family: 'Josefin Slab', serif;
+	font-size: 16;
+}
+
+.collapsible-body {
+	line-height: 0px;
+	background-color: #fafafa;
+	font-size: 18px;
+	padding-left: 35px;
+}
+
+.bodyText {
+	font-family: 'Josefin Slab', serif;
+	font-size: 16;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	top: -19px;
+	bottom: 0px;
+}
+.collapsible-header {
+	font-family: 'Josefin Slab', serif;
+	font-size: 20px;
+	border-top-width: 1px, solid;
+	background-color: #eceff1;
+	padding-left: 14px;
+}
+
+.container {
+	margin-bottom: -1100px; 
+}
+
+.topContainer {
+	margin-top: 0px;
+	padding-top: 0px;
+	top: 0px;
+	min-height: 100%;
+}
+
+.navContainer {
+	top: 0px;
+	padding-top: 0px;
+	margin-top: 0px;
+	font-size: 20px;
+	
+}
+.sideContainer {
+	min-height: 100%;
+	border-right-style: solid, width: 2px;
+	
+}
